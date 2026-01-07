@@ -12,4 +12,6 @@ git branch -M main
 
 #5. where to push the codes
 git remote add origin https://github.com/SABishal/first-git-repo.git
+
+#6. need to use for pushing code every time
 git push -u origin main
